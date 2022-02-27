@@ -1,0 +1,13 @@
+console.log("my first console project");
+var firstname ="Saatvik ";
+var secondname ="bansal";
+var fullname = firstname.concat(secondname);
+console.log(fullname);
+var a =20;
+var b =20;
+var add=a+b;
+console.log(add);
+var c =20;
+var d =10;
+var subtract=c-d;
+console.log(subtract);
